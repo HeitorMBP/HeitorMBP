@@ -12,5 +12,8 @@ Bem-vindo ao meu currículo web. Concte-se comigo:
 | Categoria | Tecnologia | Proficiência |
 | :--- | :--- | :--- |
 | **Linguagens** | MySQL, C++, C#, PHP e JavaScript | Intermediário |
-| **Ferramentas**  | Git, GitHub, VS Code| | Intermediário |
-| **Sistemas**  | Windows, Linux| | Avançado |
+| **Ferramentas**  | Git, GitHub, VS Code| Intermediário |
+| **Sistemas**  | Windows, Linux| Avançado |
+
+- [x] Criar currículo web no GitHub
+- [x] Dominar sintaxe básica do Markdown
