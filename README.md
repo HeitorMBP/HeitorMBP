@@ -1,7 +1,7 @@
 # Olá, eu sou Heitor
 ## Desenvolvedor de Software | Estudante de Tecnologia
 
-![Minha Foto]()
+![Minha Foto](https://avatars.githubusercontent.com/u/171407640?v=4&size=64)
 
 Bem-vindo ao meu currículo web. Concte-se comigo:
 * [LinkedIn](www.linkedin.com/in/HeitorMBP)
